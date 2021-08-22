@@ -28,7 +28,7 @@ Hint: the metadata table contains different types of data (e.g. continuous, cate
 
 ## Challenge 3 - Digging into genomic data
 
-In this challenge, you will take a genome alignment in FASTA format: [GenomeAln.fna](), and assess five aspects of this genome alignment:
+In this challenge, you will take a genome alignment in FASTA format: [GenomeAln.fna](https://github.com/Geshalt/GeshaltChallenges/blob/main/GenomeAln.fna), and assess five aspects of this genome alignment:
 
 * Gap ratio (the proportion of gaps in the alignment file)
 * Length of the genome alignment 
