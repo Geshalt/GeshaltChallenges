@@ -38,6 +38,6 @@ In this challenge, you will take a genome alignment in FASTA format: [GenomeAln.
 
 
 ### Note:
-*We do not expect that you have perfect answers for these challenges and there are always countless solutions for the same challenge. Thus, just kill them in the way that you are good at. Last but not least, we hope you can understand it is not an examination that you need to finish with limited time and sources. Questions, debates, arguments, discussions are always welcome during the challenge journey. This will absolutely help us evaluate your capability better.*  
+*We do not expect that you have perfect answers for these challenges and there are always countless solutions for the same challenge. Thus, just kill them in the way that you are good at. Last but not least, we hope you can understand it is not an examination that you need to finish with limited time and sources. Questions, debates, arguments, discussions are always welcome during the challenge journey. This will absolutely help us to evaluate your capability better.*  
 
  
